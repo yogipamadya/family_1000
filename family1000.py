@@ -1,5 +1,5 @@
 import streamlit as st
-import random
+import random2 as random
 
 # Set page title
 st.set_page_config(page_title="Family 1000 BIRM")
