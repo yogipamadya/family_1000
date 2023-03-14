@@ -1,4 +1,4 @@
 streamlit
-random
+random2
 numpy
 pandas
